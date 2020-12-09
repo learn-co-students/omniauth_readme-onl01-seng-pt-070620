@@ -1,3 +1,7 @@
 *.sqlite3
 *.log
+*.env
 tmp/Gemfile.lock
+
+FACEBOOK_KEY=247632982388118
+FACEBOOK_SECRET=01ab234567890c123d456ef78babc901
